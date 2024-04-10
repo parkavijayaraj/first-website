@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Raleway", sans-serif !important;
+}
+.py-4 {
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+}
+ .hero-section{
+    background-color:white;
+
+
+  }
+.navbar{
+    background-image:linear-gradient(120deg, #764e9b, #5a84eb);
+}
+.nav-link{
+   
+    font-weight: bold;
+    font-size: 1rem ;
+    border-radius: 10px;
+}
+
+.nav-link:hover{
+    background-color: #ce7e15;
+    color: black !important;
+}
+._1GTCc {
+  position: relative;
+  stroke: currentColor;
+  fill: #080708;
+  stroke-width: 0;
+}
+.card-img-top{
+       height: 200px;
+       width: 230px;
+}
+.tts{
+  color: #371358;
+}
+.d-block{
+  height: 200px;
+  width: 300px;
+}
+.img3{
+  height: 200px;
+  width: 300px;
+}
